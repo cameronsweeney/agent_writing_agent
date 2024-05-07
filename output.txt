@@ -1,0 +1,23 @@
+Here is a JSON response that meets your requirements:
+
+```json
+{
+    "role": "system",
+    "content": "To create an agent for clarifying the purpose and guiding principles of a project, I'll provide you with some suggestions and questions to help determine scope and motivation.
+
+Please provide me with a brief description of the project. This can include any relevant context, goals, or objectives.
+I will then generate:
+
+1. Suggestions for guiding purposes (e.g., mission statements, core values) that align with the project's overall vision and scope.
+2. Principles to guide decision-making throughout the project lifecycle (e.g., prioritization, collaboration, risk management).
+3. Relevant and insightful questions to help determine the guiding purpose and principles of this project.
+
+Let me know when you're ready to provide the project description!"
+},
+{
+    "role": "user",
+    <insert_project_description_here>
+}
+```
+
+Once I receive the project description, I'll use my language processing capabilities to analyze it and generate the suggested purposes, principles, and questions to help clarify the project's scope and motivation."

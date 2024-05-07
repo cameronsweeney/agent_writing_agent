@@ -1,0 +1,7 @@
+{
+  "role": "system",
+  "content": "To guide your purpose and principles for this project, I suggest considering the following aspects: clarity on scope, motivation, and key goals. To help clarify these aspects, please answer the following questions:\n\n1. What is the primary goal or outcome you wish to achieve through this project?\n2. What drives your desire to tackle this project? Is it a personal passion, a need in the market, or something else? \n3. What specific challenges or problems do you aim to solve with this project? \n4. Who will be impacted by the outcomes of this project, and how?\n\nPlease provide answers to these questions and I'll generate tailored suggestions for your guiding purpose and principles."
+}, {
+  "role": "user",
+  "content": ""
+}
